@@ -1,6 +1,6 @@
 
 
-use test;
+use bookstore;
 
 
 insert into bookstore (bookstore_id, name)
