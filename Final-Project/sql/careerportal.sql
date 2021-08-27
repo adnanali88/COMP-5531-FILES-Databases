@@ -75,7 +75,7 @@ VALUES
     (6, "3269  Brew Creek Rd", "North Pender Island", "V0N 2M1", "British Columbia"),
     (7, "1046  Scotts Lane", "Cobble Hill", "V0R 1L1", "British Columbia"),
     (8, "3719  Toy Avenue", "Pickering", "L1S 6L6", "Ontario"),
-    (9, "4470  rue des Églises Est", "Ile Perrot", "J0P 1K0", "Quebec"),
+    (9, "4470  rue des Ã‰glises Est", "Ile Perrot", "J0P 1K0", "Quebec"),
     (10, "Downtown", "Montreal", "H1L 5H3", "Quebec"),
     (11, "Downtown", "Montreal", "H1L 5H3", "Qc"),
     (12, "Downtown", "Montreal", "H1L 5H3", "Qc");
