@@ -18,3 +18,12 @@ how the DBMS determines which algorithm to use to answer to user queries as fast
 6. SQL transactions, views, and various types of integrity constraints, including checks, assertions, and triggers
 7. Physical design and file systems
 8. External sorting and B+ trees
+
+## Team Members - wic55311
+
+| Name                    | Student ID     
+| -------------           |:-------------:
+| Adnan Ali               | 40181614 
+| Daejung Bae             | 40013623      
+| Patrick Drummond        | 40185198      
+| Seyedsina Mirmaghferaty | 40124936      
