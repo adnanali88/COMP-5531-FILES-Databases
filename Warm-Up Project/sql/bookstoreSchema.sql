@@ -1,4 +1,4 @@
-use test;
+use bookstore;
 
 SET FOREIGN_KEY_CHECKS=0; -- Please keep drop table in order
 drop table if exists customer;
