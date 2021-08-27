@@ -1,6 +1,6 @@
 
 
-use test;
+use bookstore;
 
 -- i.	Get details of all books in stock.
 select *
